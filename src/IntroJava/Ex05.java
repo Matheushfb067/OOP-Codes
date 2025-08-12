@@ -1,4 +1,4 @@
-/*
+package IntroJava;/*
 Exercício 5 – Adivinhação!
 
 Faça um programa que gere um número aleatório entre 1 e 10, e

@@ -1,4 +1,4 @@
-/*
+package IntroJava;/*
 Exercício 4 – Sala de Aula!
 Faça um programa que receba o número de alunos matriculados
 na disciplina C206/C06 e imprima a sala onde o curso será ministrado.

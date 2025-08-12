@@ -1,3 +1,5 @@
+package IntroJava;
+
 public class Ex01 {
     public static void main(String[] args) {
         /*Exercício 1 – Zé do Lanche

@@ -1,4 +1,4 @@
-/*
+package IntroJava;/*
 Exercício 6 – Adivinhação Aprimorado!
 Repita o exercício anterior, mas informe o usuário se o número que ele
 digitou é maior ou menor que o gerado pelo computador!
