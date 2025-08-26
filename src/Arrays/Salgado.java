@@ -1,4 +1,4 @@
-package Arrays.Exercicio0;
+package Arrays;
 
 public class Salgado {
     String nomes;
